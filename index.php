@@ -38,7 +38,15 @@
 			</ul>
 		</div>
 		<div class="max-w-lg w-full p-3">
-			<h1 class="text-6xl font-bold font-serif mb-4 text-slate-700">Membuat Basis Data</h1>
+			<h1 class="text-5xl font-bold font-serif mb-4 text-slate-700">Perancangan</h1>
+		</div>
+		<div class="w-full bg-slate-50 p-3">
+			<div class="mx-auto max-w-lg w-full">
+				<img src="./bdl.drawio.svg"/>
+			</div>
+		</div>
+		<div class="max-w-lg w-full p-3">
+			<h1 class="text-5xl font-bold font-serif mb-4 text-slate-700">Membuat Basis Data</h1>
 		</div>
 		<div class="max-w-lg w-full p-3">
 			<div class="font-thin">
